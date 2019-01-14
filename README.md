@@ -1,2 +1,2 @@
 # run_rasqual
-the pipeline to run Rasqual
+the pipeline to run [Rasqual](https://github.com/natsuhiko/rasqual).
